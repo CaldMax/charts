@@ -1,4 +1,4 @@
-# TS Charts Repo
+# Gattonius Charts Repo
 This is an example charts repository.
 
 ## How It Works
